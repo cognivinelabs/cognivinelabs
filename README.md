@@ -1,10 +1,8 @@
 <!-- LIGHT GREEN BACKGROUND -->
 <div style="background-color:#eaffea; padding:30px; border-radius:20px;">
 
-# 🚀 Cognivibe Labs — Intelligence Engineered
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00A86B&center=true&vCenter=true&width=800&lines=Welcome+to+Cognivibe+Labs;AI+%7C+Data+%7C+Automation+%7C+Innovation;Engineering+Intelligence+for+the+Future" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00A86B&center=true&vCenter=true&width=800&lines=Welcome+to+Cognivine+Labs;AI+%7C+Data+%7C+Automation+%7C+Innovation;Engineering+Intelligence+for+the+Future" />
 </p>
 
 ---
@@ -12,14 +10,14 @@
   <img src="cognivine.png" alt="Cognivibe Labs Banner" />
 </p>
 
-## 🧠 Who We Are
+## Who We Are
 **Cognivibe Labs** is a next-generation technology studio building intelligent systems, advanced AI solutions, scalable data platforms, and production-ready digital products.
 
 > We don’t just build software — we engineer intelligence.
 
 ---
 
-## ⚡ What We Do
+##  What We Do
 
 <div align="center">
 
@@ -93,7 +91,7 @@ flowchart LR
 ## 📫 Connect With Us
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Website-2E8B57?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a href="www.cognivinelab.com"><img src="https://img.shields.io/badge/Website-2E8B57?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-3CB371?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Email-20B2AA?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
