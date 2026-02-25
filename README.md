@@ -46,7 +46,6 @@
 
 </p>
 
-*(Replace links later with your real repositories)*
 
 ---
 
