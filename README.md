@@ -92,7 +92,7 @@ flowchart LR
 <p align="center">
 <a href="www.cognivinelab.com"><img src="https://img.shields.io/badge/Website-2E8B57?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-3CB371?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-20B2AA?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="contact@cognivinelab.com"><img src="https://img.shields.io/badge/Email-20B2AA?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
