@@ -8,6 +8,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="cognivine.png" alt="Cognivibe Labs Banner" />
+</p>
 
 ## 🧠 Who We Are
 **Cognivibe Labs** is a next-generation technology studio building intelligent systems, advanced AI solutions, scalable data platforms, and production-ready digital products.
