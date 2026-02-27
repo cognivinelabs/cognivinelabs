@@ -52,7 +52,7 @@
 ## 🧪 Featured Repositories
 
 | Project | Description | App |
-|--------|-------------|
+|--------|-------------|-------------|
 🔹 `coglex-ai` | Text Summarization, Expander, and OCR | [![WebApp](https://img.shields.io/badge/Web%20App-Coglex%20AI-green)](https://coglexai.streamlit.app/) |
 🔹 `dataforge` | End-to-end data engineering toolkit | |
 🔹 `ml-deploykit` | Production ML deployment starter stack | |
