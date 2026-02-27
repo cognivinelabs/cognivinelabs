@@ -51,13 +51,13 @@
 
 ## 🧪 Featured Repositories
 
-| Project | Description |
+| Project | Description | App |
 |--------|-------------|
-🔹 `ai-core-engine` | Modular AI architecture for scalable intelligence systems |
-🔹 `dataforge` | End-to-end data engineering toolkit |
-🔹 `ml-deploykit` | Production ML deployment starter stack |
-🔹 `autoflow-ai` | Workflow automation powered by AI |
-🔹 `cognivibe-docs` | Technical documentation hub |
+🔹 `coglex-ai` | Text Summarization, Expander, and OCR | [![WebApp](https://img.shields.io/badge/Web%20App-Coglex%20AI-green)](https://coglexai.streamlit.app/) |
+🔹 `dataforge` | End-to-end data engineering toolkit | |
+🔹 `ml-deploykit` | Production ML deployment starter stack | |
+🔹 `autoflow-ai` | Workflow automation powered by AI | |
+🔹 `cognivibe-docs` | Technical documentation hub | |
 
 ---
 
